@@ -3,7 +3,7 @@
   "name": "tw",
   "description": "Twitter helper",
   "keywords": ["twitter", "client"],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "http://github.com/oz/tw.git"
